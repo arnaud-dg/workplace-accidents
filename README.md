@@ -20,7 +20,7 @@ The main analysis is conducted in a Jupyter notebook. Key components include:
 
 ## Dashboard
 
-![Dashboard Preview]([path/to/dashboard_image.png](https://raw.githubusercontent.com/arnaud-dg/workplace-accidents/refs/heads/main/power_bi_dashboard.jpg))
+![Dashboard Preview](https://raw.githubusercontent.com/arnaud-dg/workplace-accidents/refs/heads/main/power_bi_dashboard.jpg)
 
 The project includes an interactive Power BI dashboard that visualizes key insights from the accident data. You can access the live dashboard here:
 
