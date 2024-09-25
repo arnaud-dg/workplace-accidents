@@ -39,7 +39,7 @@ The project includes an interactive Power BI dashboard that visualizes key insig
 - Python
 - Jupyter Notebook
 - Pandas for data manipulation
-- LangChain for integrating with LLMs
+- Ollama for interacting with LLMs
 - Power BI for data visualization
 
 ## Getting Started
@@ -55,4 +55,4 @@ Contributions to improve the analysis or extend the dashboard are welcome. Pleas
 
 ## License
 
-[Specify your license here]
+MIT License
